@@ -43,7 +43,7 @@ html {
 }
 
 body {
-  background-color: #fca072;
+  background-color: #9f4fd8;
   margin: 0;
   width: 100%;
   height: 100%;
@@ -85,7 +85,7 @@ h6 {
 }
 
 a {
-  color: #0099cc;
+  color: #c79cff;
   text-decoration: none;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
@@ -150,7 +150,7 @@ input[type="submit"],
   line-height: 1.2;
   border: 0;
   outline: 0;
-  border: 2px solid #fca072;
+  border: 2px solid #9f4fd8;
   color: #f5f5f5;
   text-shadow: none;
   background-color: transparent;
@@ -181,9 +181,9 @@ input[type="button"]:hover,
 input[type="button"]:focus,
 input[type="submit"]:hover,
 input[type="submit"]:focus {
-  background-color: #fca072;
+  background-color: #9f4fd8;
   color: #fff;
-  border: 2px solid #fca072;
+  border: 2px solid #9f4fd8;
 }
 
 .btn-secondary {
@@ -243,7 +243,7 @@ input[type="submit"]:focus {
   width: 52px;
   height: 52px;
   margin: 100px auto;
-  background-color: #fca072;
+  background-color: #9f4fd8;
 
   border-radius: 100%;  
   -webkit-animation: sk-scaleout 1.0s infinite ease-in-out;
@@ -323,7 +323,7 @@ input[type="submit"]:focus {
   ul.main-menu a.active,
   ul.main-menu a:focus,
   ul.main-menu a:hover {
-    color: #fca072;
+    color: #9f4fd8;
   }
 
   ul.main-menu .menu-icon {
@@ -338,7 +338,7 @@ input[type="submit"]:focus {
     opacity: 0;
     color: #fff;
     padding: 2px 10px;
-    background-color: #fca072;
+    background-color: #9f4fd8;
     white-space: nowrap;
     right: 0;
     top: -50%;
@@ -391,7 +391,7 @@ input[type="submit"]:focus {
 }
 
 .lmpixels-arrows-nav div:hover {
-  color: #fca072;
+  color: #9f4fd8;
 }
 /* --- End LMPixels Arrow Nav --- */
 
@@ -488,7 +488,7 @@ input[type="submit"]:focus {
 
 .header-buttons .btn-primary:hover {
   background-color: #fff;
-  color: #fca072;
+  color: #9f4fd8;
   border-color: #fff;
 }
 
@@ -599,7 +599,7 @@ input[type="submit"]:focus {
 }
 
 .ps:hover>.ps__scrollbar-y-rail:hover>.ps__scrollbar-y {
-    background-color: #fca072;
+    background-color: #9f4fd8;
 }
 
 .ps>.ps__scrollbar-y-rail {
@@ -617,7 +617,7 @@ input[type="submit"]:focus {
 }
 
 .ps:hover.ps--in-scrolling.ps--y>.ps__scrollbar-y-rail>.ps__scrollbar-y {
-  background-color: #fca072;
+  background-color: #9f4fd8;
 }
 /* --- End Custom ScrollBar Customization --- */
 
@@ -636,7 +636,7 @@ input[type="submit"]:focus {
 }
 
 .page-title h2 span {
-  color: #fca072;
+  color: #9f4fd8;
 }
 
 .page-title:after {
@@ -647,9 +647,9 @@ input[type="submit"]:focus {
   content: '';
   height: 30px;
   width: 50px;
-  background-image: -webkit-repeating-radial-gradient(center center, #fca072, #fca072 1px, transparent 0px, transparent 100%);
-  background-image: -moz-repeating-radial-gradient(center center, #fca072, #fca072 1px, transparent 0px, transparent 100%);
-  background-image: -ms-repeating-radial-gradient(center center, #fca072, #fca072 1px, transparent 0px, transparent 100%);
+  background-image: -webkit-repeating-radial-gradient(center center, #9f4fd8, #9f4fd8 1px, transparent 0px, transparent 100%);
+  background-image: -moz-repeating-radial-gradient(center center, #9f4fd8, #9f4fd8 1px, transparent 0px, transparent 100%);
+  background-image: -ms-repeating-radial-gradient(center center, #9f4fd8, #9f4fd8 1px, transparent 0px, transparent 100%);
   -webkit-background-size: 6px 6px;
   -moz-background-size: 6px 6px;
   background-size: 6px 6px;
@@ -710,7 +710,7 @@ textarea.form-control, textarea.form-control:focus {
   top: 0;
   opacity: 0;
   background: transparent;
-  border: 2px solid #fca072;
+  border: 2px solid #9f4fd8;
   border-right-width: 0;
   height: 100%;
   -webkit-transition: all 0.3s ease-in-out;
@@ -781,7 +781,7 @@ textarea.form-control, textarea.form-control:focus {
 }
 
 .form-group-with-icon.form-group-focus i {
-  color: #fca072;
+  color: #9f4fd8;
 }
 
 .form-group.form-group-w-checkbox {
@@ -835,7 +835,7 @@ textarea.form-control, textarea.form-control:focus {
 
 .form-group .form-control:focus ~ label,
 .form-group.form-group-focus .form-control ~ label {
-  color: #fca072;
+  color: #9f4fd8;
   top: -20px;
   left: 0;
   z-index: 1;
@@ -870,7 +870,7 @@ textarea.form-control, textarea.form-control:focus {
 }
 
 .block-title h3 span {
-  color: #fca072;
+  color: #9f4fd8;
 }
 
 .block-title:after {
@@ -881,9 +881,9 @@ textarea.form-control, textarea.form-control:focus {
   content: '';
   height: 20px;
   width: 30px;
-  background-image: -webkit-repeating-radial-gradient(center center, #fca072, #fca072 1px, transparent 0px, transparent 100%);
-  background-image: -moz-repeating-radial-gradient(center center, #fca072, #fca072 1px, transparent 0px, transparent 100%);
-  background-image: -ms-repeating-radial-gradient(center center, #fca072, #fca072 1px, transparent 0px, transparent 100%);
+  background-image: -webkit-repeating-radial-gradient(center center, #9f4fd8, #9f4fd8 1px, transparent 0px, transparent 100%);
+  background-image: -moz-repeating-radial-gradient(center center, #9f4fd8, #9f4fd8 1px, transparent 0px, transparent 100%);
+  background-image: -ms-repeating-radial-gradient(center center, #9f4fd8, #9f4fd8 1px, transparent 0px, transparent 100%);
   -webkit-background-size: 6px 6px;
   -moz-background-size: 6px 6px;
   background-size: 6px 6px;
@@ -932,7 +932,7 @@ textarea.form-control, textarea.form-control:focus {
 }
 
 .info-list .title {
-  color: #fca072;
+  color: #9f4fd8;
   margin-right: 5px;
   font-weight: 600;
 }
@@ -960,7 +960,7 @@ textarea.form-control, textarea.form-control:focus {
 .info-block-w-icon i {
   position: relative;
   font-size: 42px;
-  color: #fca072;
+  color: #9f4fd8;
   opacity: .7;
 }
 /* --- End Info block with Icon --- */
@@ -989,7 +989,7 @@ textarea.form-control, textarea.form-control:focus {
 .lm-info-block i {
   position: relative;
   font-size: 33px;
-  color: #fca072;
+  color: #9f4fd8;
   z-index: 1;
 }
 
@@ -1004,7 +1004,7 @@ textarea.form-control, textarea.form-control:focus {
   font-weight: 400;
   display: block;
   margin: 10px 0;
-  color: #fca072;
+  color: #9f4fd8;
 }
 
 
@@ -1048,7 +1048,7 @@ textarea.form-control, textarea.form-control:focus {
   font-size: 30px;
   right: 0;
   top: 7px;
-  color: #fca072;
+  color: #9f4fd8;
   opacity: .5;
 }
 
@@ -1151,8 +1151,8 @@ textarea.form-control, textarea.form-control:focus {
 .testimonials.owl-carousel .owl-nav .owl-next:hover,
 .clients.owl-carousel .owl-nav .owl-prev:hover,
 .clients.owl-carousel .owl-nav .owl-next:hover {
-    background-color: #fca072;
-    border-color: #fca072;
+    background-color: #9f4fd8;
+    border-color: #9f4fd8;
     color: #fff;
 }
 /* --- End of Sliders Nav --- */
@@ -1213,7 +1213,7 @@ textarea.form-control, textarea.form-control:focus {
   position: absolute;
   margin-left: -8px;
   border-radius: 10px;
-  background-color: #fca072;
+  background-color: #9f4fd8;
   opacity: .25;
   z-index: 0;
 }
@@ -1228,7 +1228,7 @@ textarea.form-control, textarea.form-control:focus {
   margin-left: -4px;
   background-color: #222;
   border-radius: 5px;
-  border: 2px solid #fca072;
+  border: 2px solid #9f4fd8;
   z-index: 1;
 }
 
@@ -1285,7 +1285,7 @@ textarea.form-control, textarea.form-control:focus {
   position: relative;
   display: inline-block;
   background-color: #222;
-  border: 1px solid #fca072;
+  border: 1px solid #9f4fd8;
   -moz-border-radius: 8px;
   -webkit-border-radius: 8px;
   border-radius: 8px;
@@ -1300,7 +1300,7 @@ textarea.form-control, textarea.form-control:focus {
 .skills-second-style .skill-container:before {
   content: '';
   position: absolute;
-  background-color: #fca072;
+  background-color: #9f4fd8;
 }
 
 .skills-second-style .skill-value {
@@ -1313,7 +1313,7 @@ textarea.form-control, textarea.form-control:focus {
 }
 
 .skills-second-style .skill-percentage {
-  background-color: #fca072;
+  background-color: #9f4fd8;
   border: 2px solid #222;
   -moz-border-radius: 9px;
   -webkit-border-radius: 9px;
@@ -1388,7 +1388,7 @@ textarea.form-control, textarea.form-control:focus {
 
 .knowledges li {;
   display: inline-block;
-  background-color: #fca072;
+  background-color: #9f4fd8;
   border-radius: 3px;
   color: #fff;
   padding: 1px 10px;
@@ -1611,7 +1611,7 @@ textarea.form-control, textarea.form-control:focus {
   width: 30px;
   height: 30px;
   background-color: #222;
-  color: #fca072;
+  color: #9f4fd8;
   text-align: center;
   line-height: 30px;
   -webkit-transition: all 0.3s ease-in-out;
@@ -1869,7 +1869,7 @@ textarea.form-control, textarea.form-control:focus {
 }
 
 .ajax-page-nav > div.nav-item a:hover {
-  background-color: #fca072;
+  background-color: #9f4fd8;
   color: #fff;
 }
 
@@ -1928,7 +1928,7 @@ textarea.form-control, textarea.form-control:focus {
 }
 
 .project-general-info .fa {
-  color: #fca072;
+  color: #9f4fd8;
   margin-right: 5px;
 }
 
@@ -1960,8 +1960,8 @@ textarea.form-control, textarea.form-control:focus {
 
 .share-buttons a:hover {
   color: #fff;
-  background-color: #fca072;
-  border-color: #fca072;
+  background-color: #9f4fd8;
+  border-color: #9f4fd8;
 }
 
 .share-buttons a:last-child {
@@ -2386,7 +2386,7 @@ blockquote {
     height: 48px;
     line-height: 46px;
     text-align: center;
-    background-color: #fca072;
+    background-color: #9f4fd8;
     right: 10px;
     font-size: 19px;
     top: 10px;
@@ -2475,7 +2475,7 @@ blockquote {
     right: 10px;
     bottom: 10px;
     padding: 5px 0;
-    border: 2px solid #fca072;
+    border: 2px solid #9f4fd8;
   }
 
   .lmpixels-arrows-nav div {
@@ -2666,7 +2666,7 @@ blockquote {
   content: '';
   height: 2px;
   margin-top: 0;
-  background-color: #fca072;
+  background-color: #9f4fd8;
   position: absolute;
   left: 0;
   bottom: -3px;
@@ -2886,7 +2886,7 @@ blockquote {
 .fun-fact i {
   position: relative;
   font-size: 33px;
-  color: #fca072;
+  color: #9f4fd8;
   margin-bottom: 6px;
   width: 33px;
   height: 33px;
@@ -2897,7 +2897,7 @@ blockquote {
   font-weight: 400;
   display: block;
   margin: 10px 0;
-  color: #fca072;
+  color: #9f4fd8;
 }
 
 .fun-fact-block-value {
@@ -2927,5 +2927,56 @@ blockquote {
   .title-block .sp-subtitle {
     font-size: 18px;
   }
+}
+
+/* Purple theme tuned to the magenta/lavender accents in main_photo.png */
+body {
+  background-color: #5f2384;
+  background-image: linear-gradient(135deg, #201724 0%, #4f1b70 48%, #9f4fd8 100%);
+}
+
+.lm-animated-bg {
+  background-image: linear-gradient(135deg, #201724 0%, #4f1b70 48%, #9f4fd8 100%) !important;
+}
+
+.page-content,
+ul.main-menu,
+.lmpixels-arrows-nav {
+  background-color: #3d3542;
+}
+
+.page-content {
+  box-shadow: 0 22px 80px -28px rgba(60, 16, 89, .78);
+}
+
+.header-photo img {
+  border-color: #e7d7ff;
+  background-color: #e7d7ff;
+}
+
+.header-photo:after,
+.info-list li .title:after,
+.block-title h3:after {
+  opacity: .38;
+}
+
+.btn-primary,
+button,
+input[type="button"],
+input[type="submit"],
+.wp-block-button .wp-block-button__link {
+  border-color: #b96af0;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+button:hover,
+button:focus,
+input[type="button"]:hover,
+input[type="button"]:focus,
+input[type="submit"]:hover,
+input[type="submit"]:focus {
+  background-color: #b96af0;
+  border-color: #b96af0;
 }
 
